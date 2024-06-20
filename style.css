@@ -1,0 +1,76 @@
+*{
+margin :10 ;
+
+}
+        h1 {
+            font-size: x-large;
+        }
+        p {
+            font-size: x-large;
+        }
+        body {
+            text-align: center;
+            
+        }
+        table {
+            width: 80%;
+            margin: auto;
+            border: 3px solid black;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid black;
+        }
+        
+         table tr:first-child th {
+            background-color: rgb(127, 67, 176);
+            color: white; 
+            font-size: larger;
+        }
+    
+        body {
+            text-align: center;
+            
+            font-family: Arial, sans-serif; /* تحديد الخط */
+        }
+        h1, h2, h3 {
+            color: #333; /* لون العناوين */
+        }
+        a {
+            font-size: x-large;
+        }
+        p {
+            font-size: x-large;
+        }
+        .content {
+            margin: auto;
+            max-width: 10000px;
+            padding: 20px;
+            background: linear-gradient(135deg, #f9f5fd, #ebdafd);
+            border-radius: 100px; /* حواف منحنية */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+        }
+        .contact-info {
+            
+            text-align: center;
+            margin-top: 20px;
+        }
+        .contact-info h3 {
+            
+            margin-bottom: 10px;
+        }
+        .contact-info p {
+            display: inline-block;
+            background-color: #bb69eb; /* لون الخلفية الأخضر الفاتح */
+            color: #333; /* لون النص */
+            padding: 10px 20px;
+            border-radius: 50px; /* شكل الدائرة */
+        }
+        
+   
+    
+
+     
+    
+
+    
